@@ -1,11 +1,11 @@
 To check this example run in a terminal
 
 ******************
-##npm i
+## npm i
 
 ******************
 
-##npm run test:watch
+## npm run test:watch
 
 ******************
 
