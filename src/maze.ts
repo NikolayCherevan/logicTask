@@ -3,7 +3,7 @@ export function walk(arr: string[], currentX: number, currentY: number, finishX:
 
     let count = 0;
 
-    function doWalk() {
+    function doWalk():number {
         return count++
     }
     const newArr = arr.map(item => item.split(','));

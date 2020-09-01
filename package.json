@@ -1,12 +1,11 @@
 {
-  "name": "typescript-starter-kit",
-  "description": "TypeScript Starter Kit",
+  "name": "maze 3x3 with test",
+  "description": "TypeScript + Jest",
   "author": {
-    "name": "Gerard Rovira Sánchez",
-    "email": "zurfyx@gmail.com",
-    "url": "zurfyx.com"
+    "name": "Kolya Cherevan",
+    "email": "cherevan.n.s@gmail.com",
   },
-  "version": "1.0.5",
+  "version": "1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -25,18 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zurfyx/typescript-starter-kit.git"
+    "url": "git+https://github.com/NikolayCherevan/logicTask"
   },
   "keywords": [
-    "typescript",
-    "starter",
-    "library"
+
+    "maze"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zurfyx/typescript-starter-kit/issues"
-  },
-  "homepage": "https://github.com/zurfyx/typescript-starter-kit#readme",
+
   "dependencies": {
     "tslib": "^1.9.3"
   },
